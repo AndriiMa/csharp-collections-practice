@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace csharp_collections_practice
 {
-    class Program
+    class Program{
     
         static void Main(string[] args)
         {
